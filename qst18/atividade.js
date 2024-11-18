@@ -1,0 +1,1 @@
+var data = parseFloat(prompt("escreva uma data no modelo dd/mm/aaaa))
